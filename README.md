@@ -107,6 +107,7 @@ The system also introduces an **AI Decision Support Engine** that assists **Stat
 
 ## 📁 *Project Structure*
 
+```
 RailGuard/
 │
 ├── Dynamic/
@@ -140,6 +141,7 @@ RailGuard/
 │       └── background.jpg
 │
 └── README.md
+```
 
 ✔ *This matches your GitHub Desktop screenshot exactly.*  
 ✔ No missing files.  
